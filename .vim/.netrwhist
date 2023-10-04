@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='../controllers'
+let g:netrw_dirhist_2='../models/manufacture'
+let g:netrw_dirhist_3='/home/yuchentseng/Desktop/www/documentflow/application/core/MX'
+let g:netrw_dirhist_4='/home/yuchentseng/Desktop/www/documentflow/application/modules/mdu_users/models'
+let g:netrw_dirhist_5='/home/yuchentseng/Desktop/www/1hrm/application/modules/reports/views/_employee_profiles_lite'
+let g:netrw_dirhist_6='/home/yuchentseng/Desktop/www/1hrm/application/modules/pim/controllers'
+let g:netrw_dirhist_7='/home/yuchentseng/Desktop/www/documentflow/application/modules/forms/js'
+let g:netrw_dirhist_8='/home/yuchentseng/Desktop/www/web_erp_new/system/application/views/pdtans_check'
