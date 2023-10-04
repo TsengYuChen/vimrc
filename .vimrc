@@ -47,7 +47,7 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 "
 
-let g:snips_author="e136 yuchen.tseng<yuchen.tseng@eris.com.tw>"
+let g:snips_author="yuchen.tseng<tzeng.yu.chen@gmail.com>"
 
 "PHP Auto Completion"
 "au FileType php setlocal dict+=~/.vim/bundle/vim-autocomplpop/php-ide-funclist.txt
@@ -108,9 +108,10 @@ set smartindent
 
 set noswf "沒有swap file
 
-set columns=220 "預設視窗寬
-
-set lines=100 "預設視窗行高
+" 在ssh中會造成錯誤，先註解
+" set columns=220 "預設視窗寬
+" 在ssh中會造成錯誤，先註解
+" set lines=100 "預設視窗行高
 
 " set foldmethod=marker "折疊 1:syntax 2:marker 3:indent
 set foldmethod=indent "折疊 1:syntax 2:marker 3:indent
